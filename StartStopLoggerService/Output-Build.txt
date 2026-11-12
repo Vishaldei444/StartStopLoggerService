@@ -1,0 +1,5 @@
+﻿Build started at 8:20 PM...
+1>------ Build started: Project: StartStopLoggerService, Configuration: Release Any CPU ------
+1>  StartStopLoggerService -> E:\DEE530\Projects\StartStopLoggerService\StartStopLoggerService\bin\Release\StartStopLoggerService.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 8:20 PM and took 02.758 seconds ==========
